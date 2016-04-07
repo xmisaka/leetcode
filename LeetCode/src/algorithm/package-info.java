@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author sakura
- *
- */
-package algorithm;
