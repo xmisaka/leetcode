@@ -1,13 +1,13 @@
 package algorithm;
 
 /** 
- * @ClassName: Code2_AddTwoNumbers 
+ * @ClassName: Code002_AddTwoNumbers 
  * @Description: https://leetcode.com/problems/add-two-numbers/
  * @author Warming 
  * @date 2016-4-7 下午5:25:20 
  *  
  */
-public class Code2_AddTwoNumbers {
+public class Code002_AddTwoNumbers {
   
 	public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode res = new ListNode(0);

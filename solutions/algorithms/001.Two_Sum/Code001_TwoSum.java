@@ -1,11 +1,11 @@
 /** 
- * @ClassName: Code1_TwoSum 
+ * @ClassName: Code001_TwoSum 
  * @Description: Given an array of integers, return indices of the two numbers such that they add up to a specific target. 
  * @author Warming 
  * @date 2016-4-7 下午4:30:05 
  *  
  */
-public class Code1_TwoSum {
+public class Code001_TwoSum {
 	//暴力破解
 	public static int[] twoSum(int[] nums, int target) {
         int[] resultArray = new int[2];
