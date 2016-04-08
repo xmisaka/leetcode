@@ -17,5 +17,6 @@ There are 333 problems (54 problems for a fee).
 
 | \# | Problems | Solution | Difficulty |  
 |----|----------|----------|------------|
-| 001 | [001.Two_Sum](https://leetcode.com/problems/Two-Sum/) | [notes](./LeetCode/src/algorithm/001.Two_Sum/) | Easy |
-| 002 | [002.Add_Two_Numbers](https://leetcode.com/problems/Add-Two-Numbers/) | [notes](./LeetCode/src/algorithm/002.Add_Two_Numbers/) | Easy |
+| 001 | [001.Two Sum](https://leetcode.com/problems/Two-Sum/) | [notes](./LeetCode/src/algorithm/001.Two_Sum/) | Easy |
+| 002 | [002.Add Two Numbers](https://leetcode.com/problems/Add-Two-Numbers/) | [notes](./LeetCode/src/algorithm/002.Add_Two_Numbers/) | Medium |
+| 002 | [003.Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [notes](./LeetCode/src/algorithm/003.Longest_Substring_Without_Repeating_Characters/) | Medium |
