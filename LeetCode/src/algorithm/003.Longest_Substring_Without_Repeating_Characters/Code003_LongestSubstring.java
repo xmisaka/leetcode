@@ -3,13 +3,13 @@ package algorithm;
 import java.util.HashMap;
 
 /** 
- * @ClassName: Code3_LongestSubstring 
+ * @ClassName: Code003_LongestSubstring 
  * @Description: https://leetcode.com/problems/longest-substring-without-repeating-characters/
  * @author Warming 
  * @date 2016-4-7 ÏÂÎç5:58:00 
  *  
  */
-public class Code3_LongestSubstring {
+public class Code003_LongestSubstring {
 
 	public static int lengthOfLongestSubstring(String s){
 		int res = 0,left = 0;
