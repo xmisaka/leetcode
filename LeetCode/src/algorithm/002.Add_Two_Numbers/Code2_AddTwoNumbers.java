@@ -80,10 +80,10 @@ public class Code2_AddTwoNumbers {
 				l2 = l2.next;
 			}
 			
-			cur.val = sum & 10;
+			cur.val = sum % 10;
 			sum /= 10;
 			
-			if(l1.next != null || l2.next != null || sum == 1){
+			if(l1 != null || l2 != null || sum == 1){
 				cur = (cur.next = new ListNode(0));
 			}else{
 				break;
