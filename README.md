@@ -17,5 +17,5 @@ There are 333 problems (54 problems for a fee).
 
 | \# | Problems | Solution | Difficulty |  
 |----|----------|----------|------------|
-| 001 | [001.Two_Sum](https://leetcode.com/problems/Two-Sum/) | [](./solutions/001.Two_Sum) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Easy] |
-| 002 | [002.Add_Two_Numbers](https://leetcode.com/problems/Add-Two-Numbers/) | [](./solutions/002.Add_Two_Numbers) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Easy]|
+| 001 | [001.Two_Sum](https://leetcode.com/problems/Two-Sum/) |  | Easy |
+| 002 | [002.Add_Two_Numbers](https://leetcode.com/problems/Add-Two-Numbers/) |  | Easy |
