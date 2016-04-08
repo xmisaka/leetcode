@@ -12,7 +12,7 @@ LeetCode Solutions by warming
 
 ### Problems
 
-There are 333 problems (54 problems for a fee).  
+There are 341 problems (56 problems for a fee).---Up to 8 April,2016.   
 
 
 | \# | Problems | Solution | Difficulty |  
