@@ -20,7 +20,8 @@ There are 341 problems (56 problems for a fee).---Up to 8 April,2016.
 | 001 | [001.Two Sum](https://leetcode.com/problems/Two-Sum/) | [notes](./LeetCode/src/algorithm/001.Two_Sum/) | Easy |
 | 002 | [002.Add Two Numbers](https://leetcode.com/problems/Add-Two-Numbers/) | [notes](./LeetCode/src/algorithm/002.Add_Two_Numbers/) | Medium |
 | 003 | [003.Longest Substring Without Repeating Characters ](https://leetcode.com/problems/longest-substring-without-repeating-characters/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [notes](./LeetCode/src/algorithm/003.Longest_Substring_Without_Repeating_Characters/) | Medium |
-| 104 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [notes](./LeetCode/src/algorithm/003.Longest_Substring_Without_Repeating_Characters) | Easy |
+| 100 | [100. Same Tree](https://leetcode.com/problems/same-tree/) |[notes](./LeetCode/src/algorithm/100.Same_Tree) | Easy |
+| 104 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [notes](./LeetCode/src/algorithm/104.Maximum_Deepth_of_Binary_Tree) | Easy |
 | 136 | [136. Single Number](https://leetcode.com/problems/single-number/) | [notes](./LeetCode/src/algorithm/136.Single_Number/) | Medium |
 | 226 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [notes](./LeetCode/src/algorithm/226.InvertBinaryTree/) | Easy |
 | 258 | [258. Add Digits](https://leetcode.com/problems/add-digits/) | [notes](./LeetCode/src/algorithm/258.Add_Digits/) | Easy |
