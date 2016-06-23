@@ -28,3 +28,4 @@ There are 341 problems (56 problems for a fee).---Up to 8 April,2016.
 | 283 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [notes](./LeetCode/src/algorithm/283.mowing_zeroes/) | Easy |
 | 292 | [292.Nim Game](https://leetcode.com/problems/nim-game/) | [notes](./LeetCode/src/algorithm/292.Nim_Game) | Easy |
 | 338 | [338.Counting Bits](https://leetcode.com/problems/counting-bits/) | [notes](./LeetCode/src/algorithm/338.Counting_Bits/) | Medium |
+| 344 | [344.Reverse String](https://leetcode.com/problems/reverse-string/) | [notes](./LeetCode/src/algorithm/344.Reverse_String/) | Medium |
