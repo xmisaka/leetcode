@@ -29,3 +29,4 @@ There are 341 problems (56 problems for a fee).---Up to 5 July,2016.
 | 292 | [292.Nim Game](https://leetcode.com/problems/nim-game/) | [notes](./solutions/algorithms/292.Nim_Game) | Easy |
 | 338 | [338.Counting Bits](https://leetcode.com/problems/counting-bits/) | [notes](./solutions/algorithms/338.Counting_Bits/) | Medium |
 | 344 | [344.Reverse String](https://leetcode.com/problems/reverse-string/) | [notes](./solutions/algorithms/344.Reverse_String/) | Medium |
+| 617 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/#/description) | [notes](./solutions/algorithms/617.MergeTwoBinaryTrees/) | Medium |
